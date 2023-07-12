@@ -1,5 +1,4 @@
 <template>
-  <v-card>
     <v-tabs
       v-model="tab"
       color="deep-purple-accent-4"
@@ -15,7 +14,7 @@
     <v-card-text>
       <v-window v-model="tab">
         <v-window-item value="one">
-          <WelcomePage/>
+          <HomePage/>
         </v-window-item>
 
         <v-window-item value="two">
@@ -23,16 +22,16 @@
         </v-window-item>
 
         <v-window-item value="three">
-          Three
+          <Miniprojects/>
         </v-window-item>
       </v-window>
     </v-card-text>
-  </v-card>
 
 </template>
 
 <script setup>
-  import WelcomePage from '@/components/welcome.vue'
+  import HomePage from '@/views/Home.vue'
+  import Miniprojects from '@/views/Miniprojects.vue'
 </script>
 <script>
   export default {
