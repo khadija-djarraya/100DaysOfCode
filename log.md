@@ -42,3 +42,12 @@ I have tried to find a way to solve this problem but I did not figure it out yet
 
 **Possible Future work**: Presenting the results data and graphs in my vuejs portfolio.
 
+### Day 6: July 17th, 2023
+
+**Today's Progress**: Performed further readings on machine learning, deep learning and artificial intelligence. Gained a clearer understanding over their differences. Checked out Kaggle's learning resources.
+
+### Day 7: July 18th, 2023
+
+**Today's Progress**: Started working on the freecodecamp project "book recommendation system" using KNN. Learned the importance and value of cleaning the data and manipulating it for the desired model.
+
+**Project Link**: https://colab.research.google.com/drive/1zLiuhxJwChK1ackQEloaYfF6MUrLx5pH?usp=sharing
